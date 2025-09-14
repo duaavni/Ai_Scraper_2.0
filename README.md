@@ -123,7 +123,7 @@ API_PORT=8000
                     └──────────────────┘
 ```
 
-## 🚀 Perfect for Gen AI Roles
+## 🚀 Why Perfect? 
 
 This project demonstrates:
 - **AI Integration**: Using LangChain and Ollama for intelligent content processing
@@ -134,8 +134,8 @@ This project demonstrates:
 
 ## 📝 License
 
-MIT License - feel free to use this project for your Gen AI role interviews!
+MIT License - feel free to use this project))
 
 ## 🤝 Contributing
 
-Contributions are welcome! This is a simple, educational project perfect for learning and demonstrating AI skills.
+Contributions are welcome! 
